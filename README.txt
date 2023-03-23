@@ -18,5 +18,3 @@
 7. folder "dataset" contains data for the app to run.
 
 
-We have made sure that one of the method works on your system professor, please contact us if you require further 
-assistance or encounter any errors.
