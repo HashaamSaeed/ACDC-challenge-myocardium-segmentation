@@ -1,1 +1,1 @@
-# ACDC-challenge-myocardium-segmentation-
+# ACDC-challenge-myocardium-segmentation
