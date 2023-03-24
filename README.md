@@ -2,8 +2,8 @@
 
 The project aims to utilize data provided in the ACDC challenge for 100 patients. The data is in the .nii.gz format and includes MRI images of the heart's short axis with ED and ES images and corresponding ground truth values for RV, myocardium, and LV segmentation.
 
-![Screenshot](capture.png)
-![Screenshot](1.png)
+![Screenshot](Capture.PNG)
+![Screenshot](1.PNG)
 
 ## Objective
 
